@@ -1,7 +1,7 @@
 {
   "author": "George McGinley Smith",
   "name": "jquery-easing",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "A jQuery plugin from GSGD to give advanced easing options.",
   "repository": {
     "type": "git",
