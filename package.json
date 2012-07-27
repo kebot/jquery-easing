@@ -12,5 +12,5 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "main": "jquery-easing.js"
+  "main": "jquery.easing.js"
 }
