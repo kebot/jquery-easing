@@ -11,5 +11,6 @@
     "node": ">=0.4.0"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "jquery-easing.js"
 }
